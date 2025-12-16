@@ -23,8 +23,8 @@ The app focuses on clean UI, responsive layouts, and efficient API consumption a
 
 
 <div align="center">
-<img width="400" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-16 at 16 34 13" src="https://github.com/user-attachments/assets/c425bb8a-7ad0-48d5-9874-ca37a5bc841e" />
-<img width="400" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-16 at 16 34 41" src="https://github.com/user-attachments/assets/18de1452-704e-4c6f-85a7-c1f103b4f22c" />
+<img width="250" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-16 at 16 34 13" src="https://github.com/user-attachments/assets/c425bb8a-7ad0-48d5-9874-ca37a5bc841e" />
+<img width="250" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-16 at 16 34 41" src="https://github.com/user-attachments/assets/18de1452-704e-4c6f-85a7-c1f103b4f22c" />
 </div>
 
 
