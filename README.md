@@ -1,5 +1,7 @@
 # Movies 🎬 (Flutter)
-
+<div align="center">
+<img width="400" height="400" alt="appstore" src="https://github.com/user-attachments/assets/f194574a-438c-46db-a7bf-10587c3fbd73" />
+</div>
 A modern **Flutter movie discovery app** that lets users explore now-playing and popular movies using **The Movie Database (TMDB) API**.
 
 The app focuses on clean UI, responsive layouts, and efficient API consumption across **Android, iOS, and Web**.
@@ -8,6 +10,10 @@ The app focuses on clean UI, responsive layouts, and efficient API consumption a
 
 ## 📱 Overview
 
+<div align="center">
+<img width="400" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-16 at 16 33 26" src="https://github.com/user-attachments/assets/05db454a-86a3-4ad6-960d-fadc69781113" />
+</div>
+
 **Movies** allows users to:
 - Browse **now-playing** and **popular** movies
 - Search movies by title
@@ -15,8 +21,15 @@ The app focuses on clean UI, responsive layouts, and efficient API consumption a
 - Get live suggestions while typing (debounced search)
 - Explore a clean, scroll-friendly movie catalog
 
+
+<div align="center">
+<img width="400" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-16 at 16 34 13" src="https://github.com/user-attachments/assets/c425bb8a-7ad0-48d5-9874-ca37a5bc841e" />
+<img width="400" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-16 at 16 34 41" src="https://github.com/user-attachments/assets/18de1452-704e-4c6f-85a7-c1f103b4f22c" />
+</div>
+
+
 This project was built to practice:
-- Flutter UI patterns
+- Flutter UI patterns (Hero Animation, Card Slider)
 - State management with providers
 - REST API integration
 - Secure handling of API keys
