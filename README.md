@@ -1,4 +1,4 @@
-# Películas 🎬 (Flutter)
+# Movies 🎬 (Flutter)
 
 A modern **Flutter movie discovery app** that lets users explore now-playing and popular movies using **The Movie Database (TMDB) API**.
 
@@ -8,7 +8,7 @@ The app focuses on clean UI, responsive layouts, and efficient API consumption a
 
 ## 📱 Overview
 
-**Películas** allows users to:
+**Movies** allows users to:
 - Browse **now-playing** and **popular** movies
 - Search movies by title
 - View detailed movie information
