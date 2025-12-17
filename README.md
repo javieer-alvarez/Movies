@@ -2,7 +2,7 @@
 <div align="center">
 <img width="400" alt="MoviesAppIcon" src="https://github.com/user-attachments/assets/93ed4e21-4c24-41e4-b1e4-44e056989ee5" />
 </div>
-A modern **Flutter movie discovery app** that lets users explore now-playing and popular movies using **The Movie Database (TMDB) API**.
+A modern *Flutter movie discovery app** that lets users explore now-playing and popular movies using **The Movie Database (TMDB) API*.
 
 The app focuses on clean UI, responsive layouts, and efficient API consumption across **Android, iOS, and Web**.
 
