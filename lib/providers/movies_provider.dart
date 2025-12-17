@@ -6,9 +6,11 @@ import 'package:peliculas/helpers/helpers.dart';
 import '../models/models.dart';
 
 class MoviesProvider extends ChangeNotifier {
-  final String _apiKey = String.fromEnvironment('TMDB_API_KEY', defaultValue: ''); //PLACE HERE YOUR TMDB API KEY (https://www.themoviedb.org/settings/api)
+  final String _apiKey = String.fromEnvironment('TMDB_API_KEY',
+      defaultValue:
+          ''); //PLACE HERE YOUR TMDB API KEY (https://www.themoviedb.org/settings/api)
   final String _baseURL = 'api.themoviedb.org';
-  final String _languaje = 'es-ES';
+  final String _languaje = 'en-US';
 
   List<Movie> onDisplayMovies = [];
   List<Movie> popularMovies = [];
