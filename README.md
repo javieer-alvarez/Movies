@@ -1,6 +1,6 @@
 # Movies 🎬 (Flutter)
 <div align="center">
-<img width="400" height="400" alt="appstore" src="https://github.com/user-attachments/assets/f194574a-438c-46db-a7bf-10587c3fbd73" />
+<img width="400" alt="MoviesAppIcon" src="https://github.com/user-attachments/assets/93ed4e21-4c24-41e4-b1e4-44e056989ee5" />
 </div>
 A modern **Flutter movie discovery app** that lets users explore now-playing and popular movies using **The Movie Database (TMDB) API**.
 
@@ -11,8 +11,8 @@ The app focuses on clean UI, responsive layouts, and efficient API consumption a
 ## 📱 Overview
 
 <div align="center">
-<img width="400" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-16 at 16 33 26" src="https://github.com/user-attachments/assets/05db454a-86a3-4ad6-960d-fadc69781113" />
-</div>
+<img width="400" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-17 at 17 12 38" src="https://github.com/user-attachments/assets/645eabc4-c119-4c80-a297-4bf0a3d447b5" /></div>
+
 
 **Movies** allows users to:
 - Browse **now-playing** and **popular** movies
